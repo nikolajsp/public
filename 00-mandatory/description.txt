@@ -1,0 +1,13 @@
+THE BUSINESS CASE FOR THE APPLICATION
+- Denne app skal gøre det muligt for brugere at uploade deres madbilleder, så andre kan anmelde dem ved at give billedet stjerner fra 1-5.
+
+WHAT GOES WHERE? (FRONTEND, BACKEND, DATABASE)
+- frontend: Her kan man se de forskellige madbilleder og give dem stjerner.
+- backend: Her kan man uploade sit madbillede og se hvad ens tidligere billeder har fået i score.
+- database: Skal indeholde oplysninger om de forskellige brugere, billeder og scores.
+
+SKETCHING
+-Meget minimalistisk
+
+
+
