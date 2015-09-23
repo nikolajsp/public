@@ -1,4 +1,3 @@
-
 var mainModule = angular.module('mainModule', []);
 function mainController($scope) {
 
